@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nelly-10
 - 👀 I’m interested in ...Learning new skills
 - 🌱 I’m currently learning ... JAVASCRIPT
-- 💞️ I’m looking to collaborate on ...Python
+- 💞️ I’m looking to collaborate with any ongoing project
 - 📫 How to reach me ...nelson_nonso@yahoo.com
 - SKILL: HTML, CSS AND JAVASCRIPT
 
