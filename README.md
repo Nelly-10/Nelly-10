@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nelly-10
 - 👀 I’m interested in ...Learning new skills
-- 🌱 I’m currently learning ... JAVASCRIPT
+- 🌱 I’m currently learning ... REACT JS
 - 💞️ I’m looking to collaborate with any ongoing project
 - 📫 How to reach me ...nelson_nonso@yahoo.com
 - SKILL: HTML, CSS, SASS, JAVASCRIPT AND REACT....✔😎
