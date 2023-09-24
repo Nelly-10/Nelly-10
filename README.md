@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... REACT JS
 - 💞️ I’m looking to collaborate with any ongoing project
 - 📫 How to reach me ...nelson_nonso@yahoo.com
-- SKILL: HTML, CSS, SASS, JAVASCRIPT AND REACT....✔😎
+- SKILL: HTML, CSS, SASS, TAILWIND JAVASCRIPT, TYPESCRIPT AND REACT....✔😎
 
 <!---
 Nelly-10/Nelly-10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
