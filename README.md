@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Learning new skills
 - 🌱 I’m currently learning ... REACT JS
 - 💞️ I’m looking to collaborate with any ongoing project
-- 📫 How to reach me ...nelson_nonso@yahoo.com
+- 📫 How to reach me odumahnelson300@gmail.com
 - SKILL: HTML, CSS, SASS, TAILWIND JAVASCRIPT, TYPESCRIPT AND REACT....✔😎
 
 <!---
